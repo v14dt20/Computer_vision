@@ -1,0 +1,5 @@
+﻿  Paint.cpp
+C:\Users\vladt\OneDrive\Документы\Projects\Virtual_paint\Virtual_paint\Paint.cpp(34,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vladt\OneDrive\Документы\Projects\Virtual_paint\Virtual_paint\Paint.cpp(40,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladt\OneDrive\Документы\Projects\Virtual_paint\Virtual_paint\Paint.cpp(81,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Virtual_paint.vcxproj -> C:\Users\vladt\OneDrive\Документы\Projects\Virtual_paint\x64\Debug\Virtual_paint.exe

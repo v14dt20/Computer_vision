@@ -1,0 +1,3 @@
+﻿  Detector.cpp
+C:\Users\vladt\OneDrive\Документы\Projects\Plate_Detector\Plate_Detector\Detector.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Plate_Detector.vcxproj -> C:\Users\vladt\OneDrive\Документы\Projects\Plate_Detector\x64\Debug\Plate_Detector.exe
